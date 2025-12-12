@@ -1,0 +1,10 @@
+{
+  "name": "test deepseek",
+  "safe_name": "test_deepseek",
+  "created_at": "2025-12-12T00:35:28.858398",
+  "user_query": "Create a CLI todo app",
+  "status": "building",
+  "language": "python",
+  "framework": null,
+  "updated_at": "2025-12-12T00:37:18.415621"
+}

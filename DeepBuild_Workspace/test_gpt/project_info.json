@@ -1,0 +1,10 @@
+{
+  "name": "test_gpt",
+  "safe_name": "test_gpt",
+  "created_at": "2025-12-12T00:40:55.566020",
+  "user_query": "Create a CLI todo app",
+  "status": "planning",
+  "language": "python",
+  "framework": null,
+  "updated_at": "2025-12-12T00:44:24.517021"
+}
