@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+
+# Project Data (Generated Research)
+DeepBuild_Workspace/
+#test_output/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
